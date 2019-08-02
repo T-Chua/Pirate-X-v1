@@ -1,6 +1,4 @@
 # Pirate-X-v1
-Roblox Exploit created with WeAreDevs and Visual studio
-Website:http://wearedevs.net
 Commands:
   kill me	Kills your character
   float me	Makes your character float
