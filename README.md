@@ -1,5 +1,5 @@
 # Pirate-X-v1
-Roblox Exploit created with WeAreDevs
+Roblox Exploit created with WeAreDevs and Visual studio
 Website:http://wearedevs.net
 Commands:
   kill me	Kills your character
